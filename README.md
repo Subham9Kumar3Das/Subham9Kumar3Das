@@ -30,7 +30,8 @@ Description: Created a fun interactive number guessing game with a simple user i
 Technologies Used: HTML, CSS, JavaScript
 Repository: [(https://github.com/Subham9Kumar3Das/Mystery-Number-Guess---Web-Development-Project..git)]
 ## 📫 Contact Me
-📧 Email: subhamkumardas02052003@gmail.com
+- 📧 **Email**: subhamkumardas02052003@gmail.com
+- 💼 **LinkedIn**: [Subham Kumar Das](https://www.linkedin.com/in/subham-kumar-das-)
 ## 🎯 2024 Learning Goals
 Improve my skills in machine learning algorithms.
 Work on more advanced data science projects.
