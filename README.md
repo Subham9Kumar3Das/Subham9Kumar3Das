@@ -20,7 +20,7 @@ Tools: Jupyter Notebook, Google Colab
 1. Diabetes Prediction Project
 Description: Developed a machine learning model to predict the likelihood of diabetes based on patient data.
 Technologies Used: Python, Scikit-learn, Pandas, Matplotlib
-Repository: [Link to your project]
+Repository: [https://github.com/Subham9Kumar3Das/DiabetesPrediction-model.git]
 2. iPhone Scraping Project
 Description: Scraped iPhone prices and details from various e-commerce websites and analyzed the pricing trends.
 Technologies Used: Python, BeautifulSoup, Pandas
