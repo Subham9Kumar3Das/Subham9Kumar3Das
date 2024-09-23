@@ -24,11 +24,11 @@ Repository: [(https://github.com/Subham9Kumar3Das/DiabetesPrediction-model.git)]
 2. iPhone Scraping Project
 Description: Scraped iPhone prices and details from flipkart and analyzed the pricing trends.
 Technologies Used: Python, BeautifulSoup, Pandas
-Repository: [Link to your project]
+Repository: [https://github.com/Subham9Kumar3Das/Web_Scrapping-Project.git]
 3. Number Guessing Game
 Description: Created a fun interactive number guessing game with a simple user interface and random number generation.
 Technologies Used: HTML, CSS, JavaScript
-Repository: [Link to your project]
+Repository: [(https://github.com/Subham9Kumar3Das/Mystery-Number-Guess---Web-Development-Project..git)]
 ## 📫 Contact Me
 📧 Email: subhamkumardas02052003@gmail.com
 ## 🎯 2024 Learning Goals
